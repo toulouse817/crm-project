@@ -1,0 +1,9 @@
+/vendor
+/node_modules
+.env
+.git
+/tests
+database/database.sqlite
+database/database.sqlite-journal
+.phpunit.result.cache
+*.local
